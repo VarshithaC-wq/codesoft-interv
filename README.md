@@ -18,6 +18,7 @@ Light/Dark mode toggle, Clear All button, and operator handling.
 ---
 
 ## 📸 Preview
+![WhatsApp Image 2025-06-15 at 20 30 37_697900ee](https://github.com/user-attachments/assets/56443f23-43da-46cd-84cf-dc5bd5f15039)
 
 
 
