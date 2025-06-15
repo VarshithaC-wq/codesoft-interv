@@ -23,7 +23,8 @@ This project demonstrates a responsive and visually appealing landing page desig
 - *Footer* – Copyright and credits
 
 ## output
-WhatsApp Image 2025-06-15 at 22.30.35_403d349d.jpg
+![WhatsApp Image 2025-06-15 at 22 30 35_403d349d](https://github.com/user-attachments/assets/65ddb0c1-f558-4550-984b-ab6a3fc84d44)
+
 
 ## 👩‍💻 Author
 
