@@ -1,53 +1,31 @@
-# 💼 Personal Portfolio – Task 2 (CodeSoft Internship)
+# InnoWave – Tech Startup Landing Page 🚀
 
-This is a personal portfolio website created as part of my *CodeSoft web development internship* – Task 2.
- It highlights my skills, projects, and contact details in a clean, single-page layout using *HTML and CSS* only.
+Welcome to the landing page of *InnoWave, a fictional tech startup built using only **HTML* and *CSS. This project was created as **Task 3* for my *CodeSoft Web Development Internship*.
 
----
+## 🌟 Project Overview
 
-## ✨ Features
+This project demonstrates a responsive and visually appealing landing page designed to showcase the services, mission, and contact information of a tech startup called *InnoWave*. The focus is on layout design, color scheme, feature highlights, and branding — all achieved without JavaScript.
 
-- 🎯 Name and introduction at the top
-- 👩‍💻 About Me section with a short bio and photo placeholder
-- 🛠 Skills section showcasing my technical strengths
-- 📂 Projects section displaying links to 3 main projects:
-  - Calculator
-  - Password Generator
-  - To-Do List
-- 📄 Resume download button (link placeholder)
-- 📧 Contact information with email and phone
-- 📌 Fully styled with modern CSS (all in one file – no external CSS)
-- ✅ Simple and elegant layout (no responsiveness needed)
-
----
-
-## 🛠 Technologies Used
+## 🧠 Technologies Used
 
 - HTML5
-- CSS3
+- CSS3 (with gradient backgrounds, flex layout, and image styling)
+- Placeholder icons and logos (from public sources)
 
----
+## 🔍 Sections Included
 
-## 📎 How to Use
+- *Header* – Logo and navigation
+- *Hero Section* – Eye-catching title, slogan, and CTA button
+- *Features* – List of 4 core services
+- *About Us* – Company mission and summary
+- *Partners* – Logos of fake client/partner brands
+- *Contact* – Email, phone (placeholder), and website
+- *Footer* – Copyright and credits
 
-1. Clone the repository or download the index.html file.
-2. Open it in your browser to view the site.
-3. Update the placeholders with:
-   - Your photo URL
-   - GitHub project links
-   - Resume link
-   - Contact number
+## output
+WhatsApp Image 2025-06-15 at 22.30.35_403d349d.jpg
 
----
-## ![WhatsApp Image 2025-06-15 at 21 22 54_8a7a12ad](https://github.com/user-attachments/assets/17439782-49e3-4e60-8cff-a7e52f7a69e9)
+## 👩‍💻 Author
 
-
-## 📬 Contact
-
-- *Name:* Varshitha C
-- *Email:* [varshithavaru27@gmail.com](mailto:varshithavaru27@gmail.com)
-
-
----
-
-### 🌟 Made with 💖 by Varshitha.C
+- *Name*: Varshitha C
+- *Email*: varshithavaru27@gmail.com
